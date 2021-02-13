@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rohitrawatcse
+- 👋 Hi, I’m Rohit Rawat
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning ReactJS (MERN Stack).
-- 📫 Email : rohitrawatcse@gmail.com
+- 📫 Portfolio Website : https://www.rohitrawat.me
 
 <!---
 rohitrawatcse/rohitrawatcse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
