@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitrawatcse
-- 👀 I’m interested in Web Development as well as App Development
-- 🌱 I’m currently learning ReactJS (MERN Stack)
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning ReactJS (MERN Stack).
 - 📫 Email : rohitrawatcse@gmail.com
 
 <!---
