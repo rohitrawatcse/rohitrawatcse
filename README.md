@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Rawat
-- 👀 I’m interested in Web Development | App Development(Kotlin/Java Developer).
+- 👀 I’m Working in Web Development | App Development ( Kotlin / Java Developer ).
 - 🌱 I’m currently learning ReactJS (MERN Stack With Spring Boot).
 - 📫 Portfolio Website : https://www.rohitrawat.me
 - 
