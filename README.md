@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohit Rawat
-- 👀 I’m Working in Web Development | App Development ( Kotlin / Java Developer ).
+- 👀 I’m Working in Web Development, SQL Development.
 - 🌱 I’m currently learning ReactJS (MERN Stack With .Net Core).
-- 📫 Portfolio Website : https://www.rohitrawat.me
+- 📫 Portfolio Website 
 - 
 
 <!---
