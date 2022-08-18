@@ -10,7 +10,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="290px" align="right" />
+<img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="290px" width="300px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://rohitrawatcse.netlify.app/)**
 
