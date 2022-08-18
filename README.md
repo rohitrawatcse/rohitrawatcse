@@ -1,5 +1,5 @@
-
-<h1 align="center">Hello<img src="https://media1.giphy.com/media/BofAup3ACpCE98zicU/giphy.gif?cid=790b7611e65f43f0283fb8552821985e717b0c5800800427&rid=giphy.gif&ct=g" /> I'm Rohit Rawat</h1>
+<img src="https://media1.giphy.com/media/BofAup3ACpCE98zicU/giphy.gif?cid=790b7611e65f43f0283fb8552821985e717b0c5800800427&rid=giphy.gif&ct=g" /><br/>
+<h1 align="center">Hello I'm Rohit Rawat</h1>
 
 <div align="center">
   <img src ="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" border-radius="3px" width="1200px" height="400px"/>
@@ -10,7 +10,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="290px" width="300px" align="right" />
+<img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="290px" width="250px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://rohitrawatcse.netlify.app/)**
 
