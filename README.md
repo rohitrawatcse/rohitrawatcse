@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/BofAup3ACpCE98zicU/giphy.gif?cid=790b7611e65f43f0283fb8552821985e717b0c5800800427&rid=giphy.gif&ct=g" /><br/>
+<br/>
 <h1 align="center">Hello I'm Rohit Rawat</h1>
 
 <div align="center">
