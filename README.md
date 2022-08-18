@@ -2,7 +2,7 @@
 <h1 align="center">Hello I'm Rohit Rawat</h1>
 
 <div align="center">
-  <img src ="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" border-radius="3px" width="1200px" height="400px"/>
+  <img src ="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" border-radius="3px" width="600px" height="400px"/>
   
 </div>
 
