@@ -7,6 +7,9 @@
 </div>
 
  <br/>
+ <div align="center">
+ Efficient full stack web developer, having problem-solving ability and proficiency in MERN Stack. A good learner and always excited to learn new things in terms of technology. Skilled in teamwork, collaboration, time management, and other interpersonal skills. Looking for an opportunity to work in a challenging position for a technology-driven organization.
+ </div>
 
 ## 👨🏻‍💻 About Me:
 
