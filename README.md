@@ -15,7 +15,7 @@
 
 <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="290px" width="400px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://leetcode.com/rohitrawatcse/)**
+- 🙋‍♂️ All about me is at **[My Website](https://rohitrawatcse.netlify.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
