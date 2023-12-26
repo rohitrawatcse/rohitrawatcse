@@ -18,7 +18,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://rohitrawatcse.netlify.app/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `GPTSKILLZ`.
 
 - 🌱 I’m currently learning `MERN Stack`
 
