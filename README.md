@@ -8,7 +8,7 @@
 
  <br/>
  <div align="center">
- A passionate Front-end Developer having an experience of building Web applications with Html / CSS / JavaScript and still learning new stuff
+ A passionate Full Stack Developer having an experience of building Web applications with Html / CSS / JavaScript and still learning new stuff
  Efficient full stack web developer, having problem-solving ability and proficiency in MERN Stack. A good learner and always excited to learn new things in terms of technology. Skilled in teamwork, collaboration, time management, and other interpersonal skills. Looking for an opportunity to work in a challenging position for a technology-driven organization.
  </div>
 
