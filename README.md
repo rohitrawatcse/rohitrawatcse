@@ -8,9 +8,21 @@
 
  <br/>
  <div align="center">
- A passionate Full Stack Developer having an experience of building Web applications with Html / CSS / JavaScript and still learning new stuff
- Efficient full stack web developer, having problem-solving ability and proficiency in MERN Stack. A good learner and always excited to learn new things in terms of technology. Skilled in teamwork, collaboration, time management, and other interpersonal skills. Looking for an opportunity to work in a challenging position for a technology-driven organization.
- </div>
+
+  ## 👨‍💻 Full Stack .NET Developer | MERN Stack Learner
+
+  A passionate and efficient Full Stack Developer with experience in building robust web applications using **ASP.NET (MVC/Web API)**, **C#**, and **SQL Server**. I have also explored the **MERN stack (MongoDB, Express.js, React.js, Node.js)** to broaden my full stack capabilities.
+
+  Skilled in designing scalable backends and interactive frontends, I am constantly evolving with modern technologies and frameworks. I thrive in collaborative environments and bring a strong foundation in **problem-solving**, **object-oriented programming**, and **clean architecture**.
+
+  <br>
+
+  💡 Always excited to learn and implement new technologies  
+  🤝 Strong team player with effective time management and communication skills  
+  🚀 Looking for challenging opportunities in technology-driven organizations
+
+</div>
+
 
 ## 👨🏻‍💻 About Me:
 
